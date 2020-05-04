@@ -60,11 +60,11 @@ imagenes
 
 Son todas las imágenes descargas partiendo del campo "Picture URL" que está en el dataset de airbnb. El nombre de cada archivo coinicide con el ID del anuncio de airbnb. La descarga de estas imágenes se realiza en el punto 8.1 de la práctica
 
-datasetImagenes
+**datasetImagenes**
 
-X.pickle: es el dataset ya preparado extraido desde las imágenes, contiene una estructura (1271x50x50x3)
+*X.pickle*: es el dataset ya preparado extraido desde las imágenes, contiene una estructura (1271x50x50x3)
 
-Y.pickle: es el dataset con los precios extraidos a partir del ID de las imágenes y buscando en el dataset de airbnb
+*Y.pickle*: es el dataset con los precios extraidos a partir del ID de las imágenes y buscando en el dataset de airbnb
 
 Estos dos archivos se obtienen en el punto 8.2
 
