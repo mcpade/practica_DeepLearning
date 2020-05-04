@@ -56,7 +56,7 @@ El conjunto de datos escogido es [éste](https://public.opendatasoft.com/explore
 
 *airbnb_segun_img*: Este esl el dataset limpio y ordenado según las imágenes que tenemos y como se haya realizado la carga de estas. Se usará cuando se combinen datos numéricos e imágenes para el modelo. Este archivo se obtiene en el punto 8.2 de la práctica
 
-imagenes
+**imagenes**
 
 Son todas las imágenes descargas partiendo del campo "Picture URL" que está en el dataset de airbnb. El nombre de cada archivo coinicide con el ID del anuncio de airbnb. La descarga de estas imágenes se realiza en el punto 8.1 de la práctica
 
@@ -67,6 +67,13 @@ Son todas las imágenes descargas partiendo del campo "Picture URL" que está en
 *Y.pickle*: es el dataset con los precios extraidos a partir del ID de las imágenes y buscando en el dataset de airbnb
 
 Estos dos archivos se obtienen en el punto 8.2
+
+
+## Desarrollo
+
+Esta práctica se ha desarrollado usando Google Colaboratory y los archivos se guardan en Drive.
+
+Al principio de la práctica se establece una variable Ruta que contiene mi actual path dentro de Drive donde está la estructura del proyecto anterior. Habrá que cambiar esa variable ruta si se quiere copiar en otro Drive esta estructura y ejecutar el proyecto.
 
      
     
