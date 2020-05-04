@@ -50,7 +50,7 @@ El conjunto de datos escogido es [éste](https://public.opendatasoft.com/explore
 
 **data**
 
-*airbnb_listings.csv*: Es el dataset original de airbnb, la versión reducida
+*airbnb_listings.csv*: Es el dataset original de airbnb, la versión reducida. Está comprimido como .zip ya que excede el tamaño permitido por Github
 
 *airbnb_cleaned*: Es el dataset ya limpio y preparado. El el resultado de los primeros 5 puntos de la práctica y fue también el obtenido en el módulo de Machine Learning
 
